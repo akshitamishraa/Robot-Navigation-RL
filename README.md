@@ -4,10 +4,6 @@ An interactive Reinforcement Learning project that trains a robot to navigate a 
 
 ## 🎮 Game Output
 
-The screenshot below shows the robot navigation simulation after the goal has been reached.
-
-![Robot Navigation Game Output](images/robot-navigation-output.png)
-
 - 🟦 **Blue circle:** Robot
 - 🟩 **Green cell:** Goal reached indicator in the current demo
 - ⬛ **Black cells:** Obstacles
